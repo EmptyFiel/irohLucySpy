@@ -1,0 +1,11 @@
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\ed25519-4115a62b2453cdd2.d: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\hex.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\pkcs8.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\serde.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\../README.md
+
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\libed25519-4115a62b2453cdd2.rlib: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\hex.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\pkcs8.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\serde.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\../README.md
+
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\libed25519-4115a62b2453cdd2.rmeta: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\hex.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\pkcs8.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\serde.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\../README.md
+
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\lib.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\hex.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\pkcs8.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\serde.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-3.0.0-rc.4\src\../README.md:
