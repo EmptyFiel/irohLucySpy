@@ -1,0 +1,10 @@
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\crypto_box-105414b9c49edd15.d: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\public_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\secret_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\../README.md
+
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\libcrypto_box-105414b9c49edd15.rlib: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\public_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\secret_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\../README.md
+
+C:\Users\ianPC\CodeProj\irohLucySpy\target\release\deps\libcrypto_box-105414b9c49edd15.rmeta: C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\lib.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\public_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\secret_key.rs C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\../README.md
+
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\lib.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\public_key.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\secret_key.rs:
+C:\Users\ianPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crypto_box-0.10.0-pre.0\src\../README.md:
